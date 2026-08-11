@@ -1,2 +1,12 @@
-# Database-Automation
-Automate database workflows with scripts and tools for setup, migrations, backups, data processing, and routine maintenance. Designed to reduce manual work, improve consistency, and make database operations easier to manage and repeat.
+# Database Automation
+
+A collection of tools and scripts for automating common database tasks, reducing manual work, and making database operations more reliable and repeatable.
+
+# 🚀 Features
+Automated database setup and configuration
+Database migrations and schema management
+Automated backups and maintenance
+Data import and export
+Routine database operations through scripts
+Configurable environment settings
+Easy integration into development and deployment workflows
