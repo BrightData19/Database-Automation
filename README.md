@@ -13,13 +13,21 @@ A collection of tools and scripts for automating common database tasks, reducing
 
 📁 Project Structure
 database-automation/
+
 ├── scripts/          # Automation scripts
+
 ├── migrations/       # Database migrations
+
 ├── config/           # Configuration files
+
 ├── backups/          # Database backup files
+
 ├── tests/            # Tests
+
 ├── .env.example      # Example environment variables
+
 ├── requirements.txt  # Project dependencies
+
 └── README.md         # Documentation
 
 🛠️ Requirements
